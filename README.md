@@ -15,8 +15,6 @@ Technologies I primarily work with:
 * 🐳 Docker
 * 📦 webpack, Parcel
 * 💅 CSS-in-JS, tailwindcss, bem, etc
-* 👩‍🎨 Figma, Sketch, Photoshop
-
 
 ### Say hello 👋
 
