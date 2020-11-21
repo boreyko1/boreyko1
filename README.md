@@ -1,16 +1,23 @@
-### Hi there 👋
+## Hi, I'm Evgeniy! 👨‍💻
 
-<!--
-**boreyko1/boreyko1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **software developer** with 2+ years of experience mainly focusing on fullstack **web applications**.  
+You can poke around [my website &rarr;](https://brk1.dev) to learn more about me.
 
-Here are some ideas to get you started:
+### Tech stack 🥞
+Technologies I primarily work with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🟦 TypeScript, 🟨 JavaScript
+* ⚛️ React (▲ Next.js, 👩‍🎤 Gatsby)  
+* ⚡️ Svelte
+* 🟢 Node.js
+* 🧘‍♀️ GraphQL (🧘‍♂️ Relay, 🚀 Apollo)
+* 🐘 PostgreSQL, 🛑 Redis, passing familiarity with 🍃 MongoDB and 🌐 Neo4j
+* 🐳 Docker
+* 📦 webpack, Parcel
+* 💅 CSS-in-JS, tailwindcss, bem, etc
+* 👩‍🎨 Figma, Sketch, Photoshop
+
+
+### Say hello 👋
+
+Feel free to reach out via [telegram &rarr;](https://t.me/boreyko1) or [email &rarr;](mailto:boreykojenya@yandex.ru).
