@@ -3,7 +3,7 @@
 I am a **software developer** with 2+ years of experience mainly focusing on fullstack **web applications**.  
 
 ### Tech stack 🥞
-Technologies I primarily work with:
+Technologies I primarily use:
 
 * 🟦 TypeScript, 🟨 JavaScript
 * ⚛️ React (▲ Next.js, 👩‍🎤 Gatsby)  
