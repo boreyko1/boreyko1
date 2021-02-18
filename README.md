@@ -6,13 +6,12 @@ I am a **software developer** with 2+ years of experience mainly focusing on ful
 Technologies I primarily use:
 
 * 🟦 TypeScript, 🟨 JavaScript
-* ⚛️ React (▲ Next.js, 👩‍🎤 Gatsby)  
+* ⚛️ React
 * ⚡️ Svelte
 * 🟢 Node.js
-* 🧘‍♀️ GraphQL (🧘‍♂️ Relay, 🚀 Apollo)
-* 🐘 PostgreSQL, 🛑 Redis
+* 🧘‍♀️ GraphQL
+* 🐘 PostgreSQL
 * 🐳 Docker
-* 📦 webpack, Parcel
 
 ### Say hello 👋
 
