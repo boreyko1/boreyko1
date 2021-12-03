@@ -9,7 +9,7 @@ Technologies I primarily use:
 * ⚛️ React
 * ⚡️ Svelte
 * 🟢 Node.js
-* 🧘‍♀️ GraphQL
+* 🪐 GraphQL
 * 🐘 PostgreSQL
 * 🐳 Docker
 
