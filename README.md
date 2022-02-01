@@ -1,6 +1,6 @@
 ## Hi, I'm Evgeniy! 👨‍💻
 
-I am a **software developer** with 3+ years of experience mainly focusing on fullstack **web applications**.  
+I am a **software developer** mainly focusing on fullstack **web applications**.  
 
 ### Tech stack 🥞
 Technologies I primarily use:
