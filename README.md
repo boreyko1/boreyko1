@@ -10,8 +10,7 @@ Technologies I primarily use:
 * ⚡️ Svelte
 * 🟢 Node.js
 * 🪐 GraphQL
-* 🐘 PostgreSQL
-* 🐳 Docker
+* 🐘 PostgreSQL, 🐬 MySQL
 
 ### Say hello 👋
 
