@@ -1,17 +1,14 @@
-## Hi, I'm Evgeniy! 👨‍💻
+## Hi, I'm Evgeniy! 
 
-I am a **software developer** mainly focusing on fullstack **web applications**.  
+I like to build things 👨‍💻
 
 ### Tech stack 🥞
 Technologies I primarily use:
 
-* 🟦 TypeScript, 🟨 JavaScript
-* ⚛️ React
-* ⚡️ Svelte
-* 🟢 Node.js
-* 🪐 GraphQL
+* 🟦 TypeScript, 🟨 JavaScript, 🦫 Go
+* ⚛️ React, ⚡️ Svelte, 🔷 Solid
 * 🐘 PostgreSQL, 🐬 MySQL
 
 ### Say hello 👋
 
-Feel free to reach out via [telegram](https://t.me/boreyko1) or [email](mailto:boreykojenya@yandex.ru).
+Feel free to reach out via [telegram](https://t.me/boreyko1) or [email](mailto:boreykojenya@yandex.ru)
